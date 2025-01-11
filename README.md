@@ -35,7 +35,11 @@ Market Share (%): 0.54 - 1.49
 Retention Rate: 18.2 - 21.9
 ROI (%): 3 - 6
 Satisfaction Score (1-10): 1.5 - 3.5
-Dates successfully converted to datetime format.
+
+Exploratory Data Analysis Report 1. Summary of Findings 1. Data Cleaning: - No duplicates found in the dataset. - Valid ranges observed in numeric columns: - Market Share (%): 0.54 - 1.49 - Retention Rate: 18.2 - 21.9 - ROI (%): 3 - 6 - Satisfaction Score (1-10): 1.5 - 3.5 2. Exploratory Analysis: - Distributions: - Market Share (%) and Retention Rate are tightly distributed, indicating consistent performance. - Satisfaction scores are skewed toward the lower range. - Correlation Insights: - Budget Allocation ($) positively correlates with Retention Rate (+0.36) and Acquisition Cost (+0.96). - Penetration Rate (%) moderately correlates with Projected Revenue ($) (+0.38). - ROI (%) weakly negatively correlates with Retention Rate (-0.27). - Relationships: - Higher Budget Allocations ($) link to increased Retention Rates. - Processes with higher Penetration Rates (%) yield better ROI (%). 2. Next Steps 1. Detailed Report: - Insights on underperforming areas and potential strategies (e.g., focus on satisfaction improvement). - Cost-benefit analysis of budget allocation for customer retention. 2. Actionable Recommendations: - Optimize budget allocation to target processes with high ROI potential. - Investigate processes with low satisfaction scores for targeted improvements. 3. Deliverable Preparation: - Develop a Google Slides summary presentation. - Generate a comprehensive PDF report. 3. Key Visualizations Key visualizations will include: - Correlation heatmap showcasing relationships between variables. - Scatter plots (e.g., Budget Allocation vs. Retention Rate). - Distribution plots for key metrics (e.g., Satisfaction Scores)
+________________________________________
+
+
 Exploratory Analysis:
 Distributions:
 

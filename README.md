@@ -4,9 +4,13 @@
 
 This project is focused on Investigating how Elite Global Intelligence Technologies can improve customer retention, market share, and ROI by leveraging existing business data.
 
-**For EDA Report**, [Click Here ](https://docs.google.com/document/d/1ITPjRcLqgg9vutaDJpmV5tuaSfdpCpMo/edit?usp=drive_link&ouid=100899215280128970513&rtpof=true&sd=true) For EDA presentation slides, [Click Here](https://drive.google.com/drive/folders/1jlzb8nm_U3q9nAvy5_5IwSoobJIUNAQS?usp=drive_link)
+**EDA Report**, [Click Here ](https://docs.google.com/document/d/1ITPjRcLqgg9vutaDJpmV5tuaSfdpCpMo/edit?usp=drive_link&ouid=100899215280128970513&rtpof=true&sd=true) 
 
-**For Busines Problem Report**, [Click Here](https://docs.google.com/document/d/1ERTV7SciFzjs-RgjOasF6TSlP89unYBi/edit?usp=drive_link&rtpof=true&sd=true). For Business Problem Presentation Slides, [Click Here](https://drive.google.com/drive/folders/1RZCthpEnbFhjGYNHp9jxPrqJ8X0vIqh6?usp=drive_link)
+**EDA Presentation Slides**, [Click Here](https://drive.google.com/drive/folders/1jlzb8nm_U3q9nAvy5_5IwSoobJIUNAQS?usp=drive_link)
+
+**Busines Problem Report**, [Click Here](https://docs.google.com/document/d/1ERTV7SciFzjs-RgjOasF6TSlP89unYBi/edit?usp=drive_link&rtpof=true&sd=true). 
+
+**Business Problem Presentation Slides**, [Click Here](https://drive.google.com/drive/folders/1RZCthpEnbFhjGYNHp9jxPrqJ8X0vIqh6?usp=drive_link)
 
 
 # END-TO-END ANALYSIS WITH BUSINESS INSIGHTS

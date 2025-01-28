@@ -15,7 +15,7 @@ This project is focused on Investigating how Elite Global Intelligence Technolog
 
 # END-TO-END ANALYSIS WITH BUSINESS INSIGHTS
 
-Elite Global Intelligence Technologies: Project 3 Full Report
+Elite Global Intelligence Technologies Project Full Report
 
 ________________________________________
 

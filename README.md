@@ -4,6 +4,11 @@
 
 This project is focused on Investigating how Elite Global Intelligence Technologies can improve customer retention, market share, and ROI by leveraging existing business data.
 
+**For EDA Report**, [Click Here ](https://docs.google.com/document/d/1ITPjRcLqgg9vutaDJpmV5tuaSfdpCpMo/edit?usp=drive_link&ouid=100899215280128970513&rtpof=true&sd=true) For EDA presentation slides, [Click Here](https://drive.google.com/drive/folders/1jlzb8nm_U3q9nAvy5_5IwSoobJIUNAQS?usp=drive_link)
+
+**For Busines Problem Report**, [Click Here](https://docs.google.com/document/d/1ERTV7SciFzjs-RgjOasF6TSlP89unYBi/edit?usp=drive_link&rtpof=true&sd=true). For Business Problem Presentation Slides, [Click Here](https://drive.google.com/drive/folders/1RZCthpEnbFhjGYNHp9jxPrqJ8X0vIqh6?usp=drive_link)
+
+
 # END-TO-END ANALYSIS WITH BUSINESS INSIGHTS
 
 Elite Global Intelligence Technologies: Project 3 Full Report
@@ -324,6 +329,47 @@ Phase 3 (6-12 months):
 	- Bi-weekly team reviews
 	- Monthly executive updates
 	- Quarterly strategy assessment
+
+
+# PRESENTATION SLIDES
+
+![image](https://github.com/user-attachments/assets/05bd0da9-5cc5-4911-a1c0-a6341a5e75dd)
+
+![image](https://github.com/user-attachments/assets/1ba3ab49-413c-46aa-99ad-4428a98f500c)
+
+![image](https://github.com/user-attachments/assets/88956fec-f6ed-49a4-b1eb-b7d894287ece)
+
+![image](https://github.com/user-attachments/assets/90989fe1-1d55-480f-adbd-20f1e49ba96d)
+
+![image](https://github.com/user-attachments/assets/8e96912c-32d4-4093-90c0-e94aa2dc1b57)
+
+![image](https://github.com/user-attachments/assets/29edead9-ef72-4f6a-861f-ddf5de6b7345)
+
+![image](https://github.com/user-attachments/assets/51743c1d-6011-4525-ad2d-dc14cb8a0fa3)
+
+![image](https://github.com/user-attachments/assets/60c0ffa2-946a-46e3-9371-b70325bb00d9)
+
+![image](https://github.com/user-attachments/assets/dab5ecbe-4dd6-4663-847a-4d169e30753b)
+
+![image](https://github.com/user-attachments/assets/48ca64c6-8223-4d6b-93e7-4a61341c35ba)
+
+![image](https://github.com/user-attachments/assets/d297d388-b8e4-4718-8fd9-d5556f7679eb)
+
+![image](https://github.com/user-attachments/assets/5208af11-d264-4eac-bc0d-b3fd8ecc3082)
+
+![image](https://github.com/user-attachments/assets/c2440bf1-9383-4e4d-bdc3-0bdaddd964a9)
+
+![image](https://github.com/user-attachments/assets/1983c667-4f28-42e9-ba77-676024c7dc68)
+
+![image](https://github.com/user-attachments/assets/0223afd3-7bef-4279-9ec1-6e25bb0243ae)
+
+![image](https://github.com/user-attachments/assets/3a446cc7-10c3-4189-8eb5-8cf5ee8142b7)
+
+![image](https://github.com/user-attachments/assets/06a95315-1d24-4793-930d-1a058a729c74)
+
+![image](https://github.com/user-attachments/assets/d7485764-a229-4694-ba97-00c13b21888d)
+
+
 
 
 

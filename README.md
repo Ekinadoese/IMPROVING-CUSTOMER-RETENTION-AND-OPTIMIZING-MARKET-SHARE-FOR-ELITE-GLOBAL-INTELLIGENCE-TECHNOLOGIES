@@ -29,9 +29,9 @@ Elite Global Intelligence Technologies (EGIT) seeks to enhance its ROI by improv
 
 1.	Training Budget and Customer Retention:
 	
-    Weak positive correlation (R = 0.3624) between training budget allocation and customer retention.
+    	Weak positive correlation (R = 0.3624) between training budget allocation and customer retention.
 	
-    Regression analysis indicates a 0.0001392 increase in retention for every $1 increase in budget allocation.
+	Regression analysis indicates a 0.0001392 increase in retention for every $1 increase in budget allocation.
   
 2.	Customer Retention and ROI:
 
@@ -41,11 +41,11 @@ Elite Global Intelligence Technologies (EGIT) seeks to enhance its ROI by improv
   
 3.	Projected Revenue and Customer Retention:
 
-   Insignificant relationship, suggesting other factors primarily drive projected revenue.
+ 	Insignificant relationship, suggesting other factors primarily drive projected revenue.
 
 4.	Satisfaction Scores and Retention:
 
-   Customer satisfaction is low (average score: 2.5/10), highlighting a critical improvement area to boost retention and ROI.
+	Customer satisfaction is low (average score: 2.5/10), highlighting a critical improvement area to boost retention and ROI.
 
 ## Recommendations
 
@@ -124,7 +124,7 @@ ________________________________________
 
 1.	Training Budget and Customer Retention:
 	- Equation: Ŷ = 19.8125 + 0.0001392X
-   - R-Squared: 0.1313 (13.1% variability explained).
+  	- R-Squared: 0.1313 (13.1% variability explained).
 	- Key Finding: Marginal increase in retention with budget allocation.
 
 2.	Customer Retention and ROI:
